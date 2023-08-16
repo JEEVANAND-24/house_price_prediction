@@ -24,7 +24,7 @@ Some of the features of this project include:
 ### Prerequisites
 Before you begin, ensure you have met the following requirements:
 - Python (version 3.9)
-- Libraries: NumPy, Pandas, Scikit-learn, Matplotlib, Flask (for UI)
+- Libraries: NumPy, Pandas, Scikit-learn, Matplotlib, Flask 
 
 ## Usage
 1. Preprocess and clean the data using the provided Jupyter Notebook.
